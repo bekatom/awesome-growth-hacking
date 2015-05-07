@@ -1,11 +1,8 @@
 # Awesome Growth Hacking
 ===========================
 
-<img src="https://invoicewave.com/images/growth_hacking.jpg" 
-width=100% alt="Growth Hacking" title="Beka Tomashvili">
-
 <a href="http://unsplash.com/post/82304768990/">
-<img src="http://invoicewave.com/images/growth_hacking.jpg" 
+<img src="https://invoicewave.com/images/growth_hacking.jpg" 
 width=100% alt="dust mite" title="By Kristian Karlsson via Unsplash">
 </a>
 
