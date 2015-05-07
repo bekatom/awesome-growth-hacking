@@ -1,6 +1,10 @@
-# awesome-growth-hacking
+# Awesome Growth Hacking
+===========================
 
-![Growh Hackers](https://invoicewave.com/images/growth_hacking.jpg)
+<img src="https://invoicewave.com/images/growth_hacking.jpg" 
+width=100% alt="Growth Hacking" title="Beka Tomashvili">
+
+
 
 
 Awesome Growth Hacking resources
