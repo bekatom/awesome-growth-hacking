@@ -1,6 +1,6 @@
 # awesome-growth-hacking
 
-![](https://invoicewave.com/images/growth_hacking.jpg)
+![Growh Hackers](https://invoicewave.com/images/growth_hacking.jpg)
 
 
 Awesome Growth Hacking resources
