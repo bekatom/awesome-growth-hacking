@@ -1,4 +1,5 @@
 # awesome-growth-hacking
+(https://invoicewave.com/images/growth_hacking.jpg)
 Awesome Growth Hacking resources
 
 #### What is Growth Hacking
