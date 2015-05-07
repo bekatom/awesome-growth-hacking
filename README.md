@@ -13,7 +13,7 @@ Awesome Growth Hacking resources
 * [Growth Hackers Community](https://growthhackers.com/) - Unlocking Growth. Together.
 * [Ultimate Growth Hacker Resources] (http://autosend.io/growth-hacker-resources/)
 * [Reddit Chanel] (http://www.reddit.com/r/GrowthHacking)
-* [Blogs] (http://zack.onisko.com/50-growth-hacker-blogs-to-follow/) - 50+ GROWTH HACKER BLOGS TO FOLLOW
+* [Blogs] (http://zack.onisko.com/50-growth-hacker-blogs-to-follow/) - 50+ Growth hacker blogs to follow
 * [Great Growth Hacking List] (http://www.quora.com/Where-can-I-find-a-list-overview-of-growth-hacks)
 * [Become Growth Hacker] (https://blog.kissmetrics.com/learn-growth-hacking/) - 35 Resources to Help You Become a Growth Hacker
 * [What is best books ] (http://www.quora.com/What-are-the-best-books-or-web-resources-on-Growth-Hacking-and-User-Acquisition) - On Quora
