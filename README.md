@@ -1,6 +1,7 @@
 # Awesome Growth Hacking
 ===========================
-<img src="http://vobi.ge/static/img/logo.png">
+<img src="http://vobi.ge/static/img/growth_hacking.jpg">
+
 Awesome Growth Hacking resources
 
 #### What is Growth Hacking
