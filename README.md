@@ -1,12 +1,6 @@
 # Awesome Growth Hacking
 ===========================
 
-<a href="http://unsplash.com/post/82304768990/">
-<img src="https://invoicewave.com/images/growth_hacking.jpg" 
-width=100% alt="dust mite" title="By Kristian Karlsson via Unsplash">
-</a>
-
-
 Awesome Growth Hacking resources
 
 #### What is Growth Hacking
