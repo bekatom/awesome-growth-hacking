@@ -23,6 +23,8 @@ Awesome Growth Hacking resources
 #### Articles
 * [Growth hacker myth] (http://techcrunch.com/2012/12/08/defining-a-growth-hacker-6-myths-about-growth-hackers/)
 
+#### Tools 
+* [List of growth hacking tools] (http://blog.twoodo.com/14/huge-epic-list-of-growth-hacking-tools-for-non-coders/)
 
 #### Growth Hackers 
 * [Growth Hackers] (https://clarity.fm/growth-hacking)
