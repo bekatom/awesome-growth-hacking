@@ -1,4 +1,6 @@
 # awesome-growth-hacking
 Awesome Growth Hacking resources
 
-* [project-name](http://example.com/) - A short description ends with a dot.
+# What is Growth Hacking
+* [Wiki](http://en.wikipedia.org/wiki/Growth_hacking) 
+* [What is growth hacking ? ] (http://www.quora.com/What-is-growth-hacking)
