@@ -32,6 +32,11 @@ Awesome Growth Hacking resources
 
 #### Articles
 * [Growth hacker myth] (http://techcrunch.com/2012/12/08/defining-a-growth-hacker-6-myths-about-growth-hackers/)
+* [Top 10 Consumer Internet Growth Hacks](http://www.quora.com/What-are-the-Top-10-Consumer-Internet-Growth-Hacks-that-have-been-A-B-tested) - Quora
+* [Dropbox Growth Hacking] (https://blog.kissmetrics.com/dropbox-hacked-growth/)
+* [21 Growth Hacking Tactics] (http://yongfook.com/actionable-growth-hacking-tactics.html)
+* [Lessons From Growth Hackers] (https://blog.kissmetrics.com/lessons-from-growth-hackers/)
+
 
 #### Tools 
 * [List of growth hacking tools] (http://blog.twoodo.com/14/huge-epic-list-of-growth-hacking-tools-for-non-coders/)
