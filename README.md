@@ -36,6 +36,9 @@ Awesome Growth Hacking resources
 * [Dropbox Growth Hacking] (https://blog.kissmetrics.com/dropbox-hacked-growth/)
 * [21 Growth Hacking Tactics] (http://yongfook.com/actionable-growth-hacking-tactics.html)
 * [Lessons From Growth Hackers] (https://blog.kissmetrics.com/lessons-from-growth-hackers/)
+* [The Startup Pyramid] (http://www.startup-marketing.com/the-startup-pyramid/)
+* [Product Market Fit] (http://leanstack.com/achievingproductmarketfit/)
+* [Product Market Fit] (http://www.quora.com/How-do-you-define-Product-Market-Fit) - Quora
 
 
 #### Tools 
