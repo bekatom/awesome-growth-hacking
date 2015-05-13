@@ -54,6 +54,15 @@ Awesome Growth Hacking resources
 #### Tools 
 * [List of growth hacking tools] (http://blog.twoodo.com/14/huge-epic-list-of-growth-hacking-tools-for-non-coders/)
 
+#### Books
+* [The Lean Startup] (http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898/ref=sr_1_1?ie=UTF8&qid=1407249176&sr=8-1&keywords=lean+startup&tag=zeef-20)
+* [The Four Steps to the Epiphany] (http://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507/ref=sr_1_1?ie=UTF8&qid=1407249162&sr=8-1&keywords=steps+to+the+epiphany&tag=zeef-20)
+* [Lean Analytics: Use Data to Build a Better Startup Faster] (http://www.amazon.com/Lean-Analytics-Better-Startup-Faster-ebook/dp/B00AG66LTM/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1407249124&sr=1-1&keywords=lean+analytics&tag=zeef-20)
+* [Startup Growth Engines: Case Studies of How Today's Most Successful Startups Unlock Extraordinary Growth](http://www.amazon.com/Startup-Growth-Engines-Successful-Extraordinary-ebook/dp/B00LA95B68/ref=sr_1_2?ie=UTF8&qid=1407249188&sr=8-2&keywords=growth+hacking&tag=zeef-20)
+* [Hooked: How to Build Habit-Forming Products] (http://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00HJ4A43S?tag=zeef-20)
+* [UX for Lean Startups: Faster, Smarter User Experience Research and Design] (http://www.amazon.com/UX-Lean-Startups-Experience-Research-ebook/dp/B00CMFJZ1Q/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1407249124&sr=1-2&keywords=lean+analytics&tag=zeef-20)
+* [Thinking, Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/ref=sr_1_1?ie=UTF8&qid=1407249259&sr=8-1&keywords=thinking+fast+and+slow&tag=zeef-20)
+
 #### Growth Hackers 
 * [Growth Hackers] (https://clarity.fm/growth-hacking)
 * [Experts to follow] (https://growthhackers.com/questions/ask-gh-if-you-could-get-one-hour-of-free-advising-from-any-growth-expert-who-would-you-choose/)
