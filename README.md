@@ -76,6 +76,16 @@ Awesome Growth Hacking resources
 * [Growth Hackers] (https://clarity.fm/growth-hacking)
 * [Experts to follow] (https://growthhackers.com/questions/ask-gh-if-you-could-get-one-hour-of-free-advising-from-any-growth-expert-who-would-you-choose/)
 
+#### Videos 
+
+* [Growth Hacking Video List] (http://growthhackingasia.com/growth-hacking-videos/)
+* [Dan Martell- Startupfest 2014](https://www.youtube.com/watch?v=OBhq9QUEia8)
+* [The Lean Startup](https://www.youtube.com/watch?v=fEvKo90qBns#t=2579)
+* [How to Build a Great Company, Step by Step](https://www.youtube.com/watch?v=1RTcXwJuCaU)
+* [James Currier, Co-Founder Ooga Labs & Curator of the NFX- LeWeb'13 Paris - The Next 10 Years] (https://www.youtube.com/watch?v=9PTT5Kb6610)
+* [Validating & Scaling Your Business W/ Noah Kagan of AppSumo] (https://www.youtube.com/watch?v=s6iLUb6Kg1A#t=876)
+* [Predictable Revenue Webinar] (https://www.youtube.com/watch?v=olH8Yf_aMfI)
+* [Former Facebook & Twitter Growth Expert Andy Johns Shares Scaling Tips] (https://www.youtube.com/watch?v=eqeS8US10_k&feature=youtu.be)
 
 
  
