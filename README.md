@@ -39,6 +39,16 @@ Awesome Growth Hacking resources
 * [The Startup Pyramid] (http://www.startup-marketing.com/the-startup-pyramid/)
 * [Product Market Fit] (http://leanstack.com/achievingproductmarketfit/)
 * [Product Market Fit] (http://www.quora.com/How-do-you-define-Product-Market-Fit) - Quora
+* [Place to Start Acquiring Users] (http://www.growhack.com/2012/11/12/places-to-start-acquiring-users/?utm_content=bufferbaf95&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer)
+* [A guide to getting everlasting traffic with keyword research] (http://thenextweb.com/socialmedia/2014/02/28/get-found-guide-getting-everlasting-traffic-keyword-research/#!AxNSR)
+* [95 Ways to find your first customers] (http://jasonevanish.com/2013/08/11/95-ways-to-find-your-first-customers-for-customer-development-or-your-first-sale/)
+* [One Startup Tried Every Marketing Ploy ] (http://www.forbes.com/sites/alexkonrad/2013/11/26/one-startup-tried-every-marketing-ploy-from-ellen-to-twitter-heres-what-worked/)
+* [The Hacker's Guide to User Acquisition] (http://austenallred.com/user-acquisition/book/chapter/press/)
+* [The Growth Hacking Experiment] (http://www.keeping.com/growth-hacking/)
+* [A Framework For Maximizing Startup Marketing Effectiveness](http://tomtunguz.com/building-a-customer-acquisition-machine/)
+* [11 Lead Generation Tactics] (http://blog.proofhq.com/11-lead-generation-tactics-006449/)
+* [18 Resources to Help You Become Amazing At User Acquisition] (https://blog.kissmetrics.com/resources-for-customer-acquisition/)
+* [An Epic List of 100 Growth Hacks for Startups] (http://www.searchenginejournal.com/epic-list-100-growth-hacks-startups/118690/?replytocom=1968614)
 
 
 #### Tools 
