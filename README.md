@@ -54,6 +54,7 @@ Awesome Growth Hacking resources
 #### Tools 
 * [List of growth hacking tools] (http://blog.twoodo.com/14/huge-epic-list-of-growth-hacking-tools-for-non-coders/)
 * [35 Growth Hacking Tools](https://blog.kissmetrics.com/35-growth-hacking-tools/)
+* [Growth hacking tools By Roy Povarchik] (https://docs.google.com/spreadsheets/u/4/d/1LCZLON8UixqyShHePN304KnTjCtGMCXzwSyTNvWRYSs/htmlview?sle=true#)
 
 #### Books
 * [The Lean Startup] (http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898/ref=sr_1_1?ie=UTF8&qid=1407249176&sr=8-1&keywords=lean+startup&tag=zeef-20)
