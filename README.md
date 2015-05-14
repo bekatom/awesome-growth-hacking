@@ -75,6 +75,10 @@ Awesome Growth Hacking resources
 #### Growth Hackers 
 * [Growth Hackers] (https://clarity.fm/growth-hacking)
 * [Experts to follow] (https://growthhackers.com/questions/ask-gh-if-you-could-get-one-hour-of-free-advising-from-any-growth-expert-who-would-you-choose/)
+* [Who are some notable growth hackers ?](http://www.quora.com/Who-are-some-notable-growth-hackers) - Quora
+* [List of Growth hackers](http://startitup.co/guides/628/list-of-growth-hackers)
+* [Twitter Growth Hackers List](https://twitter.com/ukituki/lists/growth-hackers)
+* [Twitter Growth Hackes List] (https://twitter.com/mattgratt/lists/growth-hackers)
 
 #### Videos 
 
