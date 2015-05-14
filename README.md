@@ -87,5 +87,14 @@ Awesome Growth Hacking resources
 * [Predictable Revenue Webinar] (https://www.youtube.com/watch?v=olH8Yf_aMfI)
 * [Former Facebook & Twitter Growth Expert Andy Johns Shares Scaling Tips] (https://www.youtube.com/watch?v=eqeS8US10_k&feature=youtu.be)
 
+#### Growth Hacking with Referrals
+* [5 Tips for a Successful Customer Referral Program](https://www.salesforce.com/blog/2013/08/customer-referral-program.html?utm_content=buffer2ca36&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer)
+* [How Dancing Cats and Loving Customers increased Strikingly’s customer referrals by +200%](http://www.referralsaasquatch.com/what-do-dancing-cats-loving-customers-and-strikingly-have-in-common/)
+* [Dropbox And Referrals Question] (http://www.quora.com/How-effective-is-Dropboxs-referral-program-at-bringing-in-*paying*-users-i-e-how-many-subscribers-do-they-have) - Quora
+* [Rules of Referrals] (http://www.slideshare.net/500startups/09-ivan-kirigin-yes-graph-final?ref=http://growthhackers.com/slides/27-referral-program-hack-tics-in-20-minutes-by-ivan-kirigin)
+* [How top brands use referrals] (http://grow.kissmetrics.com/webinar-71-recording)
+* [THE 3 HACKS THAT GOT SPRINGSLED 138,790 USERS IN LESS THAN 40 DAYS] (http://roy.roypovarchik.com/2014/07/springsled-users)
+* [Lessons From Amazon Referral Program] (http://www.referralcandy.com/blog/lessons-from-amazon-primes-referral-program/)
+
 
  
