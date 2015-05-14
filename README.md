@@ -82,6 +82,7 @@ Awesome Growth Hacking resources
 
 #### Videos 
 
+* [Youtube GrwothHacker TV] (https://www.youtube.com/user/growthhackertv)
 * [Growth Hacking Video List] (http://growthhackingasia.com/growth-hacking-videos/)
 * [Dan Martell- Startupfest 2014](https://www.youtube.com/watch?v=OBhq9QUEia8)
 * [The Lean Startup](https://www.youtube.com/watch?v=fEvKo90qBns#t=2579)
