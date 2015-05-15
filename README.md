@@ -29,6 +29,7 @@ Awesome Growth Hacking resources
 * [Saas growth hacking strategies] (http://sixteenventures.com/growth-hacking-resources)
 * [Coock Book] (https://hackpad.com/Growth-Hacking-Cook-Book-5RQex1Uv8Zf)
 * [Handpicked Articles] (http://growthhack.com/)
+* [Inbound Marketing] (http://inbound.org/)
 
 #### Articles
 * [Growth hacker myth] (http://techcrunch.com/2012/12/08/defining-a-growth-hacker-6-myths-about-growth-hackers/)
