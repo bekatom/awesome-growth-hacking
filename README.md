@@ -32,7 +32,7 @@ Awesome Growth Hacking resources
 * [Inbound Marketing] (http://inbound.org/)
 
 #### Tools 
-* [Where to get press coverage for your startup] (http://submit.co/)
+* [Where to get press coverage for your startup] (http://submit.co/) - Submit.co
 * [List of growth hacking tools] (http://blog.twoodo.com/14/huge-epic-list-of-growth-hacking-tools-for-non-coders/)
 * [35 Growth Hacking Tools](https://blog.kissmetrics.com/35-growth-hacking-tools/)
 * [Growth hacking tools By Roy Povarchik] (https://docs.google.com/spreadsheets/u/4/d/1LCZLON8UixqyShHePN304KnTjCtGMCXzwSyTNvWRYSs/htmlview?sle=true#)
