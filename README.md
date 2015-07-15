@@ -35,7 +35,7 @@ Awesome Growth Hacking resources
 * [Where to get press coverage for your startup] (http://submit.co/) - Submit.co
 * [List of growth hacking tools] (http://blog.twoodo.com/14/huge-epic-list-of-growth-hacking-tools-for-non-coders/)
 * [35 Growth Hacking Tools](https://blog.kissmetrics.com/35-growth-hacking-tools/)
-* [Growth hacking tools By Roy Povarchik] (https://docs.google.com/spreadsheets/u/4/d/1LCZLON8UixqyShHePN304KnTjCtGMCXzwSyTNvWRYSs/htmlview?sle=true#)
+* [Growth hacking tools By Roy Povarchik] (https://docs.google.com/spreadsheets/u/4/d/1LCZLON8UixqyShHePN304KnTjCtGMCXzwSyTNvWRYSs/htmlview?sle=true#) - SpreadSheet
 * [Pay with that tweet](http://www.paywithatweet.com/)
 * [Colibri] (https://colibri.io/)
 * [Click to tweet] (https://clicktotweet.com/)
@@ -114,5 +114,9 @@ Awesome Growth Hacking resources
 * [11 Lead Generation Tactics] (http://blog.proofhq.com/11-lead-generation-tactics-006449/)
 * [18 Resources to Help You Become Amazing At User Acquisition] (https://blog.kissmetrics.com/resources-for-customer-acquisition/)
 * [An Epic List of 100 Growth Hacks for Startups] (http://www.searchenginejournal.com/epic-list-100-growth-hacks-startups/118690/?replytocom=1968614)
+
+#### Other
+* [Europian Investors List] (https://docs.google.com/spreadsheets/d/10S7_jBpRoWuNMnOYpkjFJArt76dPhFw0tIR7E_ndgnk/edit?pli=1#gid=0)  - SpreadSheet
+
 
  
