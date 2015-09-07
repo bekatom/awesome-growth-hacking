@@ -30,6 +30,7 @@ Awesome Growth Hacking resources
 * [Coock Book] (https://hackpad.com/Growth-Hacking-Cook-Book-5RQex1Uv8Zf)
 * [Handpicked Articles] (http://growthhack.com/)
 * [Inbound Marketing] (http://inbound.org/)
+* [10 of the most effective growth hacks] (http://thenextweb.com/insider/2015/09/06/10-of-the-most-effective-growth-hacks-from-a-pro/)
 
 #### Tools 
 * [Where to get press coverage for your startup] (http://submit.co/) - Submit.co
