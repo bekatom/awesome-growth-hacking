@@ -116,6 +116,7 @@ Awesome Growth Hacking resources
 * [11 Lead Generation Tactics] (http://blog.proofhq.com/11-lead-generation-tactics-006449/)
 * [18 Resources to Help You Become Amazing At User Acquisition] (https://blog.kissmetrics.com/resources-for-customer-acquisition/)
 * [An Epic List of 100 Growth Hacks for Startups] (http://www.searchenginejournal.com/epic-list-100-growth-hacks-startups/118690/?replytocom=1968614)
+* [Why teams get stuck with inbound marketing](https://medium.com/point-nine-news/5-reasons-why-your-team-gets-stuck-with-inbound-marketing-2a401e4d8de)
 
 #### Other
 * [Europian Investors List] (https://docs.google.com/spreadsheets/d/10S7_jBpRoWuNMnOYpkjFJArt76dPhFw0tIR7E_ndgnk/edit?pli=1#gid=0)  - SpreadSheet
