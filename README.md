@@ -76,6 +76,7 @@ Awesome Growth Hacking resources
 * [List of Growth hackers](http://startitup.co/guides/628/list-of-growth-hackers)
 * [Twitter Growth Hackers List](https://twitter.com/ukituki/lists/growth-hackers)
 * [Twitter Growth Hackes List] (https://twitter.com/mattgratt/lists/growth-hackers)
+* [150 growth leaders you must follow] (http://www.slideshare.net/FaisalAlKhalidi/150-growth-leaders-you-must-follow-on-twitter?utm_content=bufferce160&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 
 #### Videos 
 
