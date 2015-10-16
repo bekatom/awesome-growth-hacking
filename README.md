@@ -37,6 +37,7 @@ Awesome Growth Hacking resources
 * [List of growth hacking tools] (http://blog.twoodo.com/14/huge-epic-list-of-growth-hacking-tools-for-non-coders/)
 * [35 Growth Hacking Tools](https://blog.kissmetrics.com/35-growth-hacking-tools/)
 * [Growth hacking tools By Roy Povarchik] (https://docs.google.com/spreadsheets/u/4/d/1LCZLON8UixqyShHePN304KnTjCtGMCXzwSyTNvWRYSs/htmlview?sle=true#) - SpreadSheet
+* [Growth rocks] (http://growthrocks.com/blog/growth-hacking-tools/?utm_campaign=Growth-Hacking-Tools&utm_medium=cpc&utm_source=facebook&utm_content=rtg-desktop)
 * [Pay with that tweet](http://www.paywithatweet.com/)
 * [Colibri] (https://colibri.io/)
 * [Click to tweet] (https://clicktotweet.com/)
