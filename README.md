@@ -123,6 +123,7 @@ Awesome Growth Hacking resources
 * [An Epic List of 100 Growth Hacks for Startups] (http://www.searchenginejournal.com/epic-list-100-growth-hacks-startups/118690/?replytocom=1968614)
 * [Why teams get stuck with inbound marketing](https://medium.com/point-nine-news/5-reasons-why-your-team-gets-stuck-with-inbound-marketing-2a401e4d8de)
 * [Ultimate growth hacking sourcebook](https://rocketshp.com/ultimate-growth-hacking-sourcebook/)
+* [Growth Hacking Tactics: The Ultimate List](http://growthsimple.com/resources/growth-hacks/)
 
 #### Other
 * [Europian Investors List] (https://docs.google.com/spreadsheets/d/10S7_jBpRoWuNMnOYpkjFJArt76dPhFw0tIR7E_ndgnk/edit?pli=1#gid=0)  - SpreadSheet
