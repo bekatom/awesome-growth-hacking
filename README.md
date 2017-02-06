@@ -127,6 +127,6 @@ Awesome Growth Hacking resources
 
 #### Other
 * [Europian Investors List] (https://docs.google.com/spreadsheets/d/10S7_jBpRoWuNMnOYpkjFJArt76dPhFw0tIR7E_ndgnk/edit?pli=1#gid=0)  - SpreadSheet
-
+* [Growth-hacking-guide](https://github.com/squareboat/growth-hacking-guide(
 
  
