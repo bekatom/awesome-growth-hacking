@@ -37,7 +37,7 @@ Awesome Growth Hacking resources
 * [Where to get press coverage for your startup](http://submit.co/) - Submit.co
 * [List of growth hacking tools](http://blog.twoodo.com/14/huge-epic-list-of-growth-hacking-tools-for-non-coders/)
 * [35 Growth Hacking Tools](https://blog.kissmetrics.com/35-growth-hacking-tools/)
-* [Growth hacking tools By Roy Povarchik(https://docs.google.com/spreadsheets/u/4/d/1LCZLON8UixqyShHePN304KnTjCtGMCXzwSyTNvWRYSs/htmlview?sle=true#) - SpreadSheet
+* [Growth hacking tools By Roy Povarchik](https://docs.google.com/spreadsheets/u/4/d/1LCZLON8UixqyShHePN304KnTjCtGMCXzwSyTNvWRYSs/htmlview?sle=true#) - SpreadSheet
 * [Growth rocks](http://growthrocks.com/blog/growth-hacking-tools/?utm_campaign=Growth-Hacking-Tools&utm_medium=cpc&utm_source=facebook&utm_content=rtg-desktop)
 * [Pay with that tweet](http://www.paywithatweet.com/)
 * [Colibri](https://colibri.io/)
@@ -88,9 +88,9 @@ Awesome Growth Hacking resources
 * [Dan Martell- Startupfest 2014](https://www.youtube.com/watch?v=OBhq9QUEia8)
 * [The Lean Startup](https://www.youtube.com/watch?v=fEvKo90qBns#t=2579)
 * [How to Build a Great Company, Step by Step](https://www.youtube.com/watch?v=1RTcXwJuCaU)
-* [James Currier, Co-Founder Ooga Labs & Curator of the NFX- LeWeb'13 Paris - The Next 10 Years(https://www.youtube.com/watch?v=9PTT5Kb6610)
+* [James Currier, Co-Founder Ooga Labs & Curator of the NFX- LeWeb'13 Paris - The Next 10 Years](https://www.youtube.com/watch?v=9PTT5Kb6610)
 * [Validating & Scaling Your Business W/ Noah Kagan of AppSumo](https://www.youtube.com/watch?v=s6iLUb6Kg1A#t=876)
-* [Predictable Revenue Webinar] (https://www.youtube.com/watch?v=olH8Yf_aMfI)
+* [Predictable Revenue Webinar](https://www.youtube.com/watch?v=olH8Yf_aMfI)
 * [Former Facebook & Twitter Growth Expert Andy Johns Shares Scaling Tips](https://www.youtube.com/watch?v=eqeS8US10_k&feature=youtu.be)
 
 #### Growth Hacking with Referrals
