@@ -37,7 +37,7 @@ Awesome Growth Hacking resources
 * [Where to get press coverage for your startup](http://submit.co/) - Submit.co
 * [List of growth hacking tools](http://blog.twoodo.com/14/huge-epic-list-of-growth-hacking-tools-for-non-coders/)
 * [35 Growth Hacking Tools](https://blog.kissmetrics.com/35-growth-hacking-tools/)
-* [Growth hacking tools By Roy Povarchik] (https://docs.google.com/spreadsheets/u/4/d/1LCZLON8UixqyShHePN304KnTjCtGMCXzwSyTNvWRYSs/htmlview?sle=true#) - SpreadSheet
+* [Growth hacking tools By Roy Povarchik(https://docs.google.com/spreadsheets/u/4/d/1LCZLON8UixqyShHePN304KnTjCtGMCXzwSyTNvWRYSs/htmlview?sle=true#) - SpreadSheet
 * [Growth rocks](http://growthrocks.com/blog/growth-hacking-tools/?utm_campaign=Growth-Hacking-Tools&utm_medium=cpc&utm_source=facebook&utm_content=rtg-desktop)
 * [Pay with that tweet](http://www.paywithatweet.com/)
 * [Colibri](https://colibri.io/)
@@ -51,7 +51,7 @@ Awesome Growth Hacking resources
 * [Totango](http://www.totango.com/)
 * [Optimizely](https://www.optimizely.com/)
 * [Growthverse](http://www.growthverse.com/welcome)
-* [Chrome extension for growth hackers] (http://growthrocks.com/blog/chrome-extensions/)
+* [Chrome extension for growth hackers](http://growthrocks.com/blog/chrome-extensions/)
 * [Ladder](https://ladder.io)
 
 #### Books
@@ -70,7 +70,7 @@ Awesome Growth Hacking resources
 * [The Black Swan](http://www.amazon.com/gp/product/081297381X/ref=wsirn_dp_u_b_T2_20_1_d?tag=zeef-20)
 * [Blink: The Power of Thinking Without Thinking](http://www.amazon.com/Blink-The-Power-Thinking-Without/dp/0316010669/ref=sr_1_1?ie=UTF8&qid=1407249234&sr=8-1&keywords=blink&tag=zeef-20)
 * [Growth Hacker Marketing: A Primer on the Future of PR, Marketing and Advertising](http://www.amazon.com/Growth-Hacker-Marketing-Primer-Advertising-ebook/dp/B00EWPMUKM/ref=sr_1_1?ie=UTF8&qid=1406711248&sr=8-1&keywords=growth+hacking&tag=zeef-20)
-* [Persuasive Technology: Using Computers to Change What We Think and Do] (http://www.amazon.com/Persuasive-Technology-Computers-Interactive-Technologies/dp/1558606432/ref=sr_1_1?s=books&ie=UTF8&qid=1331129541&sr=1-1&tag=zeef-20)
+* [Persuasive Technology: Using Computers to Change What We Think and Do](http://www.amazon.com/Persuasive-Technology-Computers-Interactive-Technologies/dp/1558606432/ref=sr_1_1?s=books&ie=UTF8&qid=1331129541&sr=1-1&tag=zeef-20)
 
 #### Growth Hackers 
 * [Growth Hackers](https://clarity.fm/growth-hacking)
@@ -88,7 +88,7 @@ Awesome Growth Hacking resources
 * [Dan Martell- Startupfest 2014](https://www.youtube.com/watch?v=OBhq9QUEia8)
 * [The Lean Startup](https://www.youtube.com/watch?v=fEvKo90qBns#t=2579)
 * [How to Build a Great Company, Step by Step](https://www.youtube.com/watch?v=1RTcXwJuCaU)
-* [James Currier, Co-Founder Ooga Labs & Curator of the NFX- LeWeb'13 Paris - The Next 10 Years] (https://www.youtube.com/watch?v=9PTT5Kb6610)
+* [James Currier, Co-Founder Ooga Labs & Curator of the NFX- LeWeb'13 Paris - The Next 10 Years(https://www.youtube.com/watch?v=9PTT5Kb6610)
 * [Validating & Scaling Your Business W/ Noah Kagan of AppSumo](https://www.youtube.com/watch?v=s6iLUb6Kg1A#t=876)
 * [Predictable Revenue Webinar] (https://www.youtube.com/watch?v=olH8Yf_aMfI)
 * [Former Facebook & Twitter Growth Expert Andy Johns Shares Scaling Tips](https://www.youtube.com/watch?v=eqeS8US10_k&feature=youtu.be)
@@ -99,7 +99,7 @@ Awesome Growth Hacking resources
 * [Dropbox And Referrals Question](http://www.quora.com/How-effective-is-Dropboxs-referral-program-at-bringing-in-*paying*-users-i-e-how-many-subscribers-do-they-have) - Quora
 * [Rules of Referrals](http://www.slideshare.net/500startups/09-ivan-kirigin-yes-graph-final?ref=http://growthhackers.com/slides/27-referral-program-hack-tics-in-20-minutes-by-ivan-kirigin)
 * [How top brands use referrals](http://grow.kissmetrics.com/webinar-71-recording)
-* [THE 3 HACKS THAT GOT SPRINGSLED 138,790 USERS IN LESS THAN 40 DAYS] (http://roy.roypovarchik.com/2014/07/springsled-users)
+* [THE 3 HACKS THAT GOT SPRINGSLED 138,790 USERS IN LESS THAN 40 DAYS](http://roy.roypovarchik.com/2014/07/springsled-users)
 * [Lessons From Amazon Referral Program](http://www.referralcandy.com/blog/lessons-from-amazon-primes-referral-program/)
 
 #### Articles
