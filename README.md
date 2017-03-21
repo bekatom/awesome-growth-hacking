@@ -124,7 +124,7 @@ Awesome Growth Hacking resources
 * [Why teams get stuck with inbound marketing](https://medium.com/point-nine-news/5-reasons-why-your-team-gets-stuck-with-inbound-marketing-2a401e4d8de)
 * [Ultimate growth hacking sourcebook](https://rocketshp.com/ultimate-growth-hacking-sourcebook/)
 * [Growth Hacking Tactics: The Ultimate List](http://growthsimple.com/resources/growth-hacks/)
-* [List of 300 top growth hacking tips](https://medium.com/standuply/the-ultimate-list-of-300-top-growth-hacking-tips-and-tricks-b12f7edc2318#.5wgzm37zo)
+
 
 #### Other
 * [Europian Investors List] (https://docs.google.com/spreadsheets/d/10S7_jBpRoWuNMnOYpkjFJArt76dPhFw0tIR7E_ndgnk/edit?pli=1#gid=0)  - SpreadSheet
