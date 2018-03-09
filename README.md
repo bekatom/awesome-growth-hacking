@@ -10,7 +10,7 @@ Awesome Growth Hacking resources
 * [Who is growth hacker?](http://www.startup-marketing.com/where-are-all-the-growth-hackers/)
 * [Growth hacking guid](http://www.slideshare.net/DavidArnoux1/growth-hacking-guide-mindset-framework-and-tools)
 * [An Introduction to growth hacking](http://blog.clarity.fm/an-introduction-to-growth-hacking-3-quotes-to-explain-the-future-of-marketing/)
-* [Guid to growth hacking](http://www.quicksprout.com/2013/08/26/the-definitive-guide-to-growth-hacking/)
+* [Guide to growth hacking](http://www.quicksprout.com/2013/08/26/the-definitive-guide-to-growth-hacking/)
 * [Growth Hacking Roadmap](http://www.slideshare.net/MarkDAndersen/growth-hacking-roadmap?qid=8493d8c5-507c-4669-b29d-8f767a887edf&v=qf1&b=&from_search=60)
  
 #### Resources
@@ -27,7 +27,6 @@ Awesome Growth Hacking resources
 * [Growth Hacker TV](https://www.growthhacker.tv/)
 * [5 Phases of Growth hacking](http://mashable.com/2013/09/02/growth-hacking/)
 * [Saas growth hacking strategies](http://sixteenventures.com/growth-hacking-resources)
-* [Coock Book](https://hackpad.com/Growth-Hacking-Cook-Book-5RQex1Uv8Zf)
 * [Handpicked Articles](http://growthhack.com/)
 * [Inbound Marketing](http://inbound.org/)
 * [10 of the most effective growth hacks](http://thenextweb.com/insider/2015/09/06/10-of-the-most-effective-growth-hacks-from-a-pro/)
