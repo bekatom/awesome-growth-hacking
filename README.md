@@ -1,7 +1,7 @@
 # Awesome Growth Hacking
 ===========================
 
-<img src="http://erp.vobi.io/static/img/growth_hacking.jpg">
+<img src="https://www.dropbox.com/s/n79c9hfmrrdmla1/growth_hacking.jpeg?raw=1">
 
 Awesome Growth Hacking resources
 
