@@ -1,7 +1,7 @@
 # Awesome Growth Hacking
 ===========================
 
-<img src="https://www.dropbox.com/s/n79c9hfmrrdmla1/growth_hacking.jpeg?raw=1">
+<img src="https://drive.google.com/uc?export=download&id=1FuMDi29FxWyJnKtkmvpycHCzbdgvoQh9">
 
 Awesome Growth Hacking resources
 
