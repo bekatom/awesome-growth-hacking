@@ -24,17 +24,17 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Growthtools](http://growthtools.io)
 * [Growth Hackers Community](https://growthhackers.com/) - Unlocking Growth. Together.
 * [Ultimate Growth Hacker Resources](http://autosend.io/growth-hacker-resources/)
-* [Reddit Chanel](http://www.reddit.com/r/GrowthHacking)
+* [Reddit Channel](http://www.reddit.com/r/GrowthHacking)
 * [Blogs](http://zack.onisko.com/50-growth-hacker-blogs-to-follow/) - 50+ Growth hacker blogs to follow
 * [Great Growth Hacking List](http://www.quora.com/Where-can-I-find-a-list-overview-of-growth-hacks)
 * [Become Growth Hacker](https://blog.kissmetrics.com/learn-growth-hacking/) - 35 Resources to Help You Become a Growth Hacker
-* [What is best books ](http://www.quora.com/What-are-the-best-books-or-web-resources-on-Growth-Hacking-and-User-Acquisition) - On Quora
+* [What are the best books ](http://www.quora.com/What-are-the-best-books-or-web-resources-on-Growth-Hacking-and-User-Acquisition) - On Quora
 * [Great Sites about growth hacking](http://growthdevil.com/20-great-sites-growth-hacking/)
 * [30 must read resources](http://writtent.com/blog/30-must-read-growth-hacking-resources-digital-marketers/)
-* [Resoources for Growth hackers](http://ryanholiday.net/my-resources-for-growth-hacking/)
+* [Resources for Growth hackers](http://ryanholiday.net/my-resources-for-growth-hacking/)
 * [Growth Hacker TV](https://www.growthhacker.tv/)
 * [5 Phases of Growth hacking](http://mashable.com/2013/09/02/growth-hacking/)
-* [Saas growth hacking strategies](http://sixteenventures.com/growth-hacking-resources)
+* [SaaS growth hacking strategies](http://sixteenventures.com/growth-hacking-resources)
 * [Handpicked Articles](http://growthhack.com/)
 * [Inbound Marketing](http://inbound.org/)
 * [10 of the most effective growth hacks](http://thenextweb.com/insider/2015/09/06/10-of-the-most-effective-growth-hacks-from-a-pro/)
@@ -85,12 +85,12 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Who are some notable growth hackers ?](http://www.quora.com/Who-are-some-notable-growth-hackers) - Quora
 * [List of Growth hackers](http://startitup.co/guides/628/list-of-growth-hackers)
 * [Twitter Growth Hackers List](https://twitter.com/ukituki/lists/growth-hackers)
-* [Twitter Growth Hackes List](https://twitter.com/mattgratt/lists/growth-hackers)
+* [Twitter Growth Hackers List](https://twitter.com/mattgratt/lists/growth-hackers)
 * [150 growth leaders you must follow](http://www.slideshare.net/FaisalAlKhalidi/150-growth-leaders-you-must-follow-on-twitter?utm_content=bufferce160&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 
 #### Videos 
 
-* [Youtube GrwothHacker TV](https://www.youtube.com/user/growthhackertv)
+* [Youtube Grwoth Hacker TV](https://www.youtube.com/user/growthhackertv)
 * [Growth Hacking Video List](http://growthhackingasia.com/growth-hacking-videos/)
 * [Dan Martell- Startupfest 2014](https://www.youtube.com/watch?v=OBhq9QUEia8)
 * [The Lean Startup](https://www.youtube.com/watch?v=fEvKo90qBns#t=2579)
@@ -134,7 +134,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Ultimate list of 300 hacking tips](https://medium.com/standuply/the-ultimate-list-of-300-top-growth-hacking-tips-and-tricks-b12f7edc2318#.5wgzm37zo)
 
 #### Other
-* [Europian Investors List](https://docs.google.com/spreadsheets/d/10S7_jBpRoWuNMnOYpkjFJArt76dPhFw0tIR7E_ndgnk/edit?pli=1#gid=0)  - SpreadSheet
+* [European Investors List](https://docs.google.com/spreadsheets/d/10S7_jBpRoWuNMnOYpkjFJArt76dPhFw0tIR7E_ndgnk/edit?pli=1#gid=0)  - SpreadSheet
 * [Growth-hacking-guide](https://github.com/squareboat/growth-hacking-guide)
 
  
