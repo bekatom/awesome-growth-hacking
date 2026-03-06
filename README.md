@@ -39,6 +39,10 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Inbound Marketing](http://inbound.org/)
 * [10 of the most effective growth hacks](http://thenextweb.com/insider/2015/09/06/10-of-the-most-effective-growth-hacks-from-a-pro/)
 * [Quora topics](https://www.quora.com/topic/Growth-Hacking)
+* [Awesome Trade Shows](https://github.com/LensmorOfficial/awesome-trade-shows) - A curated list of top global trade shows for B2B lead generation.
+* [Trade Show Email Templates](https://github.com/LensmorOfficial/trade-show-email-templates) - Ready-to-use email templates for pre-show, onsite, and post-show B2B outreach.
+* [Exhibitor Intelligence Playbook](https://github.com/LensmorOfficial/exhibitor-intelligence-playbook) - A complete playbook on how to extract and evaluate leads from trade shows.
+
 
 #### Tools 
 * [Where to get press coverage for your startup](http://submit.co/) - Submit.co
