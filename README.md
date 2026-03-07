@@ -78,6 +78,9 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Blink: The Power of Thinking Without Thinking](http://www.amazon.com/Blink-The-Power-Thinking-Without/dp/0316010669/ref=sr_1_1?ie=UTF8&qid=1407249234&sr=8-1&keywords=blink&tag=zeef-20)
 * [Growth Hacker Marketing: A Primer on the Future of PR, Marketing and Advertising](http://www.amazon.com/Growth-Hacker-Marketing-Primer-Advertising-ebook/dp/B00EWPMUKM/ref=sr_1_1?ie=UTF8&qid=1406711248&sr=8-1&keywords=growth+hacking&tag=zeef-20)
 * [Persuasive Technology: Using Computers to Change What We Think and Do](http://www.amazon.com/Persuasive-Technology-Computers-Interactive-Technologies/dp/1558606432/ref=sr_1_1?s=books&ie=UTF8&qid=1331129541&sr=1-1&tag=zeef-20)
+* [AI Product Launch Playbook](https://github.com/Gingiris/gingiris-launch) - Battle-tested launch strategies from AFFiNE (60k+ stars): Product Hunt SOPs, KOL outreach, Reddit marketing, UGC growth
+* [B2B SaaS Growth Playbook](https://github.com/Gingiris/gingiris-b2b-growth) - Full-lifecycle B2B growth from PMF to ecosystem, with HeyGen, Deel, Vercel case studies
+* [Open Source Launch Marketing](https://github.com/Gingiris/gingiris-opensource) - GitHub star growth tactics, developer community building, and OSS marketing
 
 #### Growth Hackers 
 * [Growth Hackers](https://clarity.fm/growth-hacking)
