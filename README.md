@@ -1,4 +1,5 @@
 # Awesome Growth Hacking
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 ===========================
 
 <img src="https://drive.google.com/uc?export=download&id=1FuMDi29FxWyJnKtkmvpycHCzbdgvoQh9">
