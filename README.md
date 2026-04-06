@@ -5,6 +5,7 @@
 
 Awesome Growth Hacking resources
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for growth hacking workflow orchestration, automated marketing pipeline management, and multi-agent coordination. MIT licensed.
 ### To create a better knowledge space we now accept donations of ETH & other cryptocurrencies!
 ENS: beka.eth \
 ETH 0x697b76602EADb510d2BFCDb29db0d2a517F00858 \
