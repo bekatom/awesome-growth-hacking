@@ -39,6 +39,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Inbound Marketing](http://inbound.org/)
 * [10 of the most effective growth hacks](http://thenextweb.com/insider/2015/09/06/10-of-the-most-effective-growth-hacks-from-a-pro/)
 * [Quora topics](https://www.quora.com/topic/Growth-Hacking)
+* [Osservatorio Cold Email Italia](https://clientium.it/osservatorio/) - Open dataset of 723 Italian B2B cold email campaigns (3.7M emails) with reply-rate benchmarks by sector, CC BY 4.0.
 
 #### Tools 
 * [Where to get press coverage for your startup](http://submit.co/) - Submit.co
