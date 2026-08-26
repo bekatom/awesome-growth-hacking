@@ -21,10 +21,11 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Growth Hacking Roadmap](http://www.slideshare.net/MarkDAndersen/growth-hacking-roadmap?qid=8493d8c5-507c-4669-b29d-8f767a887edf&v=qf1&b=&from_search=60)
  
 #### Resources
+* [Funding Signals](https://fundingsignals.net/?utm_source=github_awesomelist&utm_medium=backlink) - B2B lead-intelligence API that flags companies right after they raise funding (SEC Form D), scored for sales relevance, so growth teams reach out while the timing is hottest.
 * [Growthtools](http://growthtools.io)
 * [Growth Hackers Community](https://growthhackers.com/) - Unlocking Growth. Together.
 * [Ultimate Growth Hacker Resources](http://autosend.io/growth-hacker-resources/)
-* [Reddit Channel](http://www.reddit.com/r/GrowthHacking)
+* [Reddit Channel](https://www.reddit.com/r/GrowthHacking)
 * [Blogs](http://zack.onisko.com/50-growth-hacker-blogs-to-follow/) - 50+ Growth hacker blogs to follow
 * [Great Growth Hacking List](http://www.quora.com/Where-can-I-find-a-list-overview-of-growth-hacks)
 * [Become Growth Hacker](https://blog.kissmetrics.com/learn-growth-hacking/) - 35 Resources to Help You Become a Growth Hacker
@@ -44,6 +45,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Where to get press coverage for your startup](http://submit.co/) - Submit.co
 * [List of growth hacking tools](http://blog.twoodo.com/14/huge-epic-list-of-growth-hacking-tools-for-non-coders/)
 * [35 Growth Hacking Tools](https://blog.kissmetrics.com/35-growth-hacking-tools/)
+* [AnswerLens](https://app.sfdj.net/) - Audits public B2B SaaS evidence gaps before growth teams rewrite pricing, proof, docs, or trust pages.
 * [Growth hacking tools By Roy Povarchik](https://docs.google.com/spreadsheets/u/4/d/1LCZLON8UixqyShHePN304KnTjCtGMCXzwSyTNvWRYSs/htmlview?sle=true#) - SpreadSheet
 * [Growth rocks](http://growthrocks.com/blog/growth-hacking-tools/?utm_campaign=Growth-Hacking-Tools&utm_medium=cpc&utm_source=facebook&utm_content=rtg-desktop)
 * [Pay with that tweet](http://www.paywithatweet.com/)
@@ -61,6 +63,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Chrome extension for growth hackers](http://growthrocks.com/blog/chrome-extensions/)
 * [Ladder](https://ladder.io)
 * [GEOScore](https://geoscoreai.com) - Free AI search visibility scanner that checks 11 GEO signals including robots.txt, llms.txt, structured data, and citation readiness for AI search engines
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 #### Books
 * [The Lean Startup](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898/ref=sr_1_1?ie=UTF8&qid=1407249176&sr=8-1&keywords=lean+startup&tag=zeef-20)
