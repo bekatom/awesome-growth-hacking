@@ -71,6 +71,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [GEOScore](https://geoscoreai.com/) - AI search visibility scanner that checks how your website performs in AI search engines (ChatGPT, Perplexity, Gemini). Free scan with 11 technical checks.
 * [Awesome GEO](https://github.com/henu-wang/awesome-geo) - Curated list of Generative Engine Optimization resources
 * [SocialBu](https://socialbu.com/) - AI-powered social media management and automation platform for scheduling, publishing, and growing your social presence.
+* [SocialRoster](https://socialroster.dev/) - Social media scheduler for TikTok, Instagram, YouTube, and Facebook with bulk upload and calendar scheduling.
 * [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source contacts (450M+), run email + LinkedIn campaigns, enroll prospects. CLI with JSON output.
 * [Max CLI](https://github.com/sortlist/max-cli) - B2B intent signal monitoring. Track LinkedIn engagement, keyword posters, job changers, funding events. CLI with JSON output.
 * [BulkPublish](https://www.bulkpublish.com) - Social media scheduling and publishing for 11 platforms. Free tier, REST API, Python & Node.js SDKs, and MCP server.
