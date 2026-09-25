@@ -44,6 +44,8 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Quora topics](https://www.quora.com/topic/Growth-Hacking)
 
 #### Tools 
+
+* [Deeplead](https://deeplead.io/) - B2B prospecting and AI-personalized email outreach with managed sending inboxes.
 * [Where to get press coverage for your startup](http://submit.co/) - Submit.co
 * [List of growth hacking tools](http://blog.twoodo.com/14/huge-epic-list-of-growth-hacking-tools-for-non-coders/)
 * [35 Growth Hacking Tools](https://blog.kissmetrics.com/35-growth-hacking-tools/)
