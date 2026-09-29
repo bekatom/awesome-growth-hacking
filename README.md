@@ -24,6 +24,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 #### Resources
 * [The Free X Growth Course](https://slappost.app/learn/) - 5 free no-login lessons on growing on X (Twitter): hooks, threads, X's open-source algorithm, replies, and your profile funnel
 * [Funding Signals](https://fundingsignals.net/?utm_source=github_awesomelist&utm_medium=backlink) - B2B lead-intelligence API that flags companies right after they raise funding (SEC Form D), scored for sales relevance, so growth teams reach out while the timing is hottest.
+* [Outreach Benchmarks inventory](https://outreachbenchmarks.com/data/outreach-tools) - Downloadable, source-linked CSV of 50 outreach software profiles across LinkedIn, cold email, and other channels, with dated evidence for each profile.
 * [Growthtools](http://growthtools.io)
 * [Growth Hackers Community](https://growthhackers.com/) - Unlocking Growth. Together.
 * [Ultimate Growth Hacker Resources](http://autosend.io/growth-hacker-resources/)
