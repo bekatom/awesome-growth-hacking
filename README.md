@@ -79,6 +79,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [MarketiStats](https://marketistats.com) - Multi-channel marketing analytics dashboard (social, SEO, outreach, affiliates, paid ads) for SaaS founders
 * [Beton Inspector](https://github.com/getbeton/inspector) - Open-source revenue intelligence; scores accounts from PostHog product signals + CRM and surfaces the warmest leads for sales.
 * [LinkPost](https://linkpost.gg) - AI-powered LinkedIn post writer that predicts virality before publishing using 1M+ posts and 300+ factors.
+* [TGScope Channel Audit](https://tgscope.io/tools/telegram-channel-audit) - Free Telegram channel audit for advertisers: real views per subscriber, rank among similar channels, and ad views and CPM forecast for 24/48/72-hour posts.
 
 #### Books
 * [The Lean Startup](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898/ref=sr_1_1?ie=UTF8&qid=1407249176&sr=8-1&keywords=lean+startup&tag=zeef-20)
@@ -152,6 +153,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Growth Hacking Tactics: The Ultimate List](http://growthsimple.com/resources/growth-hacks/)
 * [Ultimate list of 300 hacking tips](https://medium.com/standuply/the-ultimate-list-of-300-top-growth-hacking-tips-and-tricks-b12f7edc2318#.5wgzm37zo)
 * [#1 SaaS Growth Hack](https://www.waltervoronovic.com/saas-growth-hacks/)
+* [How many Telegram subscribers actually see a post](https://tgscope.io/rnd/telegram-channel-reach) - Reach benchmarks from 45,691 active Telegram channels by size, topic and language, and how fast a post collects its views.
 
 #### Other
 * [European Investors List](https://docs.google.com/spreadsheets/d/10S7_jBpRoWuNMnOYpkjFJArt76dPhFw0tIR7E_ndgnk/edit?pli=1#gid=0)  - SpreadSheet
