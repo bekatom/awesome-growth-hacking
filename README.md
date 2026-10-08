@@ -73,7 +73,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [SocialBu](https://socialbu.com/) - AI-powered social media management and automation platform for scheduling, publishing, and growing your social presence.
 * [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source contacts (450M+), run email + LinkedIn campaigns, enroll prospects. CLI with JSON output.
 * [Max CLI](https://github.com/sortlist/max-cli) - B2B intent signal monitoring. Track LinkedIn engagement, keyword posters, job changers, funding events. CLI with JSON output.
-* [BulkPublish](https://www.bulkpublish.com) - Social media scheduling and publishing for 11 platforms. Free tier, REST API, Python & Node.js SDKs, and MCP server.
+* [BulkPublish](https://www.bulkpublish.com) - Social media scheduling and publishing for 15 platforms. Free tier, REST API, Python & Node.js SDKs, and MCP server.
 * [Scrupp](https://scrupp.com) - Chrome extension that extracts verified emails and phones from LinkedIn Sales Navigator, with waterfall verification and CSV/Google Sheets export.
 * [Pick an Agency](https://www.pickanagency.com) - Independent directory of 47,000+ ad and marketing agencies, ranked by verified reviews. No paid placements.
 * [MarketiStats](https://marketistats.com) - Multi-channel marketing analytics dashboard (social, SEO, outreach, affiliates, paid ads) for SaaS founders
