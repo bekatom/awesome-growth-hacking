@@ -68,6 +68,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [NotFair](https://github.com/nowork-studio/notfair-plugin) - Open-source Claude Code agent skills for SEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP (MIT)
 * [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 * [PageGuard](https://pageguard.org) - Free website health scanner: instant SEO audit, Core Web Vitals, and accessibility check. Fix issues hurting your organic growth and conversions. No login required.
+* [Vaneform](https://vaneform.com) - Free website traffic and SEO lookup for competitor research: estimated monthly visits, traffic sources, top countries and keywords for any site, plus leaderboards of fast-growing sites. No login required.
 * [GEOScore](https://geoscoreai.com/) - AI search visibility scanner that checks how your website performs in AI search engines (ChatGPT, Perplexity, Gemini). Free scan with 11 technical checks.
 * [Awesome GEO](https://github.com/henu-wang/awesome-geo) - Curated list of Generative Engine Optimization resources
 * [SocialBu](https://socialbu.com/) - AI-powered social media management and automation platform for scheduling, publishing, and growing your social presence.
