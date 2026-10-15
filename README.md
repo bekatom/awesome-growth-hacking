@@ -60,6 +60,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Bounceexchange](http://www.bounceexchange.com/)
 * [Kissmetrics](https://www.kissmetrics.com/)
 * [Crazyegg](http://www.crazyegg.com/)
+* [Sequential](https://www.usesequential.com) - Session replay and product analytics with an AI judge that reviews each session and lists where users struggled. Remote MCP server for AI agents.
 * [Totango](http://www.totango.com/)
 * [Optimizely](https://www.optimizely.com/)
 * [Growthverse](http://www.growthverse.com/welcome)
