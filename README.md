@@ -57,6 +57,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [MixRank](https://mixrank.com/)
 * [twilighter](http://www.appsumo.com/twilighter/?rf=brws)
 * [Hellobar](https://www.hellobar.com/)
+* [Zyff](https://www.zyff.app/widget-builder) - On-site conversion widgets: exit-intent popups, announcement bars, Google reviews and countdown timers, built in a live editor and embedded with one snippet. Free plan available.
 * [Bounceexchange](http://www.bounceexchange.com/)
 * [Kissmetrics](https://www.kissmetrics.com/)
 * [Crazyegg](http://www.crazyegg.com/)
