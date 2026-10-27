@@ -51,6 +51,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Growth hacking tools By Roy Povarchik](https://docs.google.com/spreadsheets/u/4/d/1LCZLON8UixqyShHePN304KnTjCtGMCXzwSyTNvWRYSs/htmlview?sle=true#) - SpreadSheet
 * [Growth rocks](http://growthrocks.com/blog/growth-hacking-tools/?utm_campaign=Growth-Hacking-Tools&utm_medium=cpc&utm_source=facebook&utm_content=rtg-desktop)
 * [GetAppNiche](https://getappniche.com/) - iOS app market intelligence for revenue estimates, ASO keywords, competitor ads, reviews, and niche research
+* [App Store Localizer](https://asolocalization.com) - Listing translator for indie iOS devs: paste a public App Store URL for translated screenshots plus localized title, keywords, and description in 20+ locales
 * [Pay with that tweet](http://www.paywithatweet.com/)
 * [Colibri](https://colibri.io/)
 * [Click to tweet](https://clicktotweet.com/)
