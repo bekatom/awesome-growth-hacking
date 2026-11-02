@@ -79,6 +79,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [MarketiStats](https://marketistats.com) - Multi-channel marketing analytics dashboard (social, SEO, outreach, affiliates, paid ads) for SaaS founders
 * [Beton Inspector](https://github.com/getbeton/inspector) - Open-source revenue intelligence; scores accounts from PostHog product signals + CRM and surfaces the warmest leads for sales.
 * [LinkPost](https://linkpost.gg) - AI-powered LinkedIn post writer that predicts virality before publishing using 1M+ posts and 300+ factors.
+* [mach-gtm-mcp](https://github.com/verma6uc/mach-gtm-mcp) - Open-source MCP server for B2B outbound sales: build ICPs, research prospects with verified buying signals, score leads (0-100), draft cold emails and LinkedIn messages (1-3-1 framework), and generate multi-touch outreach sequences. Human approval required before any message is sent. Install: `npx mach-gtm-mcp`. License: MIT.
 
 #### Books
 * [The Lean Startup](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898/ref=sr_1_1?ie=UTF8&qid=1407249176&sr=8-1&keywords=lean+startup&tag=zeef-20)
