@@ -127,6 +127,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [How top brands use referrals](http://grow.kissmetrics.com/webinar-71-recording)
 * [THE 3 HACKS THAT GOT SPRINGSLED 138,790 USERS IN LESS THAN 40 DAYS](http://roy.roypovarchik.com/2014/07/springsled-users)
 * [Lessons From Amazon Referral Program](http://www.referralcandy.com/blog/lessons-from-amazon-primes-referral-program/)
+* [Next.js waitlist with double opt-in and a referral queue](https://github.com/Sid-Lais/nextjs-waitlist-double-opt-in) - Open-source waitlist that moves people up the queue when they refer friends
 
 #### Articles
 * [Growth hacker myth](http://techcrunch.com/2012/12/08/defining-a-growth-hacker-6-myths-about-growth-hackers/)
