@@ -80,6 +80,8 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Beton Inspector](https://github.com/getbeton/inspector) - Open-source revenue intelligence; scores accounts from PostHog product signals + CRM and surfaces the warmest leads for sales.
 * [LinkPost](https://linkpost.gg) - AI-powered LinkedIn post writer that predicts virality before publishing using 1M+ posts and 300+ factors.
 
+* [GoAnyAPI](https://goanyapi.com) - SEO and web-data API plus MCP server: keyword research, backlinks, competitor traffic and Google Ads Transparency for growth experiments.
+
 #### Books
 * [The Lean Startup](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898/ref=sr_1_1?ie=UTF8&qid=1407249176&sr=8-1&keywords=lean+startup&tag=zeef-20)
 * [The Four Steps to the Epiphany](http://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507/ref=sr_1_1?ie=UTF8&qid=1407249162&sr=8-1&keywords=steps+to+the+epiphany&tag=zeef-20)
