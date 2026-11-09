@@ -22,6 +22,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Mautic](https://www.mautic.org) - Open-source marketing automation platform for growth teams, campaigns, segmentation, and customer journeys.
  
 #### Resources
+* [AdVariq](https://advariq.com/) - AI commercial ad creative and product marketing visual generator for DTC brands and growth hackers.
 * [The Free X Growth Course](https://slappost.app/learn/) - 5 free no-login lessons on growing on X (Twitter): hooks, threads, X's open-source algorithm, replies, and your profile funnel
 * [Funding Signals](https://fundingsignals.net/?utm_source=github_awesomelist&utm_medium=backlink) - B2B lead-intelligence API that flags companies right after they raise funding (SEC Form D), scored for sales relevance, so growth teams reach out while the timing is hottest.
 * [Growthtools](http://growthtools.io)
