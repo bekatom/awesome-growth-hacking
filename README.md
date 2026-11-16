@@ -75,6 +75,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Max CLI](https://github.com/sortlist/max-cli) - B2B intent signal monitoring. Track LinkedIn engagement, keyword posters, job changers, funding events. CLI with JSON output.
 * [BulkPublish](https://www.bulkpublish.com) - Social media scheduling and publishing for 11 platforms. Free tier, REST API, Python & Node.js SDKs, and MCP server.
 * [Scrupp](https://scrupp.com) - Chrome extension that extracts verified emails and phones from LinkedIn Sales Navigator, with waterfall verification and CSV/Google Sheets export.
+* [Founder Email Finder](https://founders.intropi.in/) - Paste company websites and get the founder or owner's name and likely email (marked published or guessed), shared inboxes and phones. Pay per use, $1.50 per 1,000 sites.
 * [Pick an Agency](https://www.pickanagency.com) - Independent directory of 47,000+ ad and marketing agencies, ranked by verified reviews. No paid placements.
 * [MarketiStats](https://marketistats.com) - Multi-channel marketing analytics dashboard (social, SEO, outreach, affiliates, paid ads) for SaaS founders
 * [Beton Inspector](https://github.com/getbeton/inspector) - Open-source revenue intelligence; scores accounts from PostHog product signals + CRM and surfaces the warmest leads for sales.
