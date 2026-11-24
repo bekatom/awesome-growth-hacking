@@ -42,6 +42,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Inbound Marketing](http://inbound.org/)
 * [10 of the most effective growth hacks](http://thenextweb.com/insider/2015/09/06/10-of-the-most-effective-growth-hacks-from-a-pro/)
 * [Quora topics](https://www.quora.com/topic/Growth-Hacking)
+* [B2B UTM & GA4 Lead Tracking Kit](https://github.com/shahshivani120-lab/b2b-utm-ga4-lead-tracking) - UTM naming rules, GTM + GA4 setup and a lead-source capture script to see which channels bring qualified leads
 
 #### Tools 
 * [Where to get press coverage for your startup](http://submit.co/) - Submit.co
