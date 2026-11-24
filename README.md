@@ -79,6 +79,11 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [MarketiStats](https://marketistats.com) - Multi-channel marketing analytics dashboard (social, SEO, outreach, affiliates, paid ads) for SaaS founders
 * [Beton Inspector](https://github.com/getbeton/inspector) - Open-source revenue intelligence; scores accounts from PostHog product signals + CRM and surfaces the warmest leads for sales.
 * [LinkPost](https://linkpost.gg) - AI-powered LinkedIn post writer that predicts virality before publishing using 1M+ posts and 300+ factors.
+* [Google Ads Transparency Scraper](https://apify.com/publicrecords/google-ads-transparency-scraper) - Google ads a competitor runs, from the Ads Transparency Center, with first and last shown dates (Apify Actor, API + MCP).
+* [Company Social Profile Finder](https://apify.com/publicrecords/company-social-profile-finder) - Company domain or name to its LinkedIn, X, YouTube, Instagram and Facebook links, with confidence scores (Apify Actor, API + MCP).
+* [Etsy Search Scraper](https://apify.com/publicrecords/etsy-search-scraper) - Etsy search results by keyword: price, rating, reviews, Bestseller badge, ad flag, rank (Apify Actor, API + MCP).
+* [Etsy Shop Daily Sales](https://apify.com/publicrecords/etsy-shop-velocity) - Daily, 7-day and 28-day sales for Etsy shops from each shop's public sales counter (Apify Actor, API + MCP).
+* [Spotify Play Count Scraper](https://apify.com/publicrecords/spotify-play-count-scraper) - Play counts for every track on a Spotify track, album, artist or playlist link, plus monthly listeners (Apify Actor, API + MCP).
 
 #### Books
 * [The Lean Startup](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898/ref=sr_1_1?ie=UTF8&qid=1407249176&sr=8-1&keywords=lean+startup&tag=zeef-20)
