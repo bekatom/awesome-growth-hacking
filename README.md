@@ -30,7 +30,6 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Reddit Channel](https://www.reddit.com/r/GrowthHacking)
 * [Blogs](http://zack.onisko.com/50-growth-hacker-blogs-to-follow/) - 50+ Growth hacker blogs to follow
 * [Great Growth Hacking List](http://www.quora.com/Where-can-I-find-a-list-overview-of-growth-hacks)
-* [Become Growth Hacker](https://blog.kissmetrics.com/learn-growth-hacking/) - 35 Resources to Help You Become a Growth Hacker
 * [What are the best books ](http://www.quora.com/What-are-the-best-books-or-web-resources-on-Growth-Hacking-and-User-Acquisition) - On Quora
 * [Great Sites about growth hacking](http://growthdevil.com/20-great-sites-growth-hacking/)
 * [30 must read resources](http://writtent.com/blog/30-must-read-growth-hacking-resources-digital-marketers/)
@@ -46,7 +45,6 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 #### Tools 
 * [Where to get press coverage for your startup](http://submit.co/) - Submit.co
 * [List of growth hacking tools](http://blog.twoodo.com/14/huge-epic-list-of-growth-hacking-tools-for-non-coders/)
-* [35 Growth Hacking Tools](https://blog.kissmetrics.com/35-growth-hacking-tools/)
 * [AnswerLens](https://app.sfdj.net/) - Audits public B2B SaaS evidence gaps before growth teams rewrite pricing, proof, docs, or trust pages.
 * [Growth hacking tools By Roy Povarchik](https://docs.google.com/spreadsheets/u/4/d/1LCZLON8UixqyShHePN304KnTjCtGMCXzwSyTNvWRYSs/htmlview?sle=true#) - SpreadSheet
 * [Growth rocks](http://growthrocks.com/blog/growth-hacking-tools/?utm_campaign=Growth-Hacking-Tools&utm_medium=cpc&utm_source=facebook&utm_content=rtg-desktop)
@@ -124,14 +122,12 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [How Dancing Cats and Loving Customers increased Strikingly’s customer referrals by +200%](http://www.referralsaasquatch.com/what-do-dancing-cats-loving-customers-and-strikingly-have-in-common/)
 * [Dropbox And Referrals Question](http://www.quora.com/How-effective-is-Dropboxs-referral-program-at-bringing-in-*paying*-users-i-e-how-many-subscribers-do-they-have) - Quora
 * [Rules of Referrals](http://www.slideshare.net/500startups/09-ivan-kirigin-yes-graph-final?ref=http://growthhackers.com/slides/27-referral-program-hack-tics-in-20-minutes-by-ivan-kirigin)
-* [How top brands use referrals](http://grow.kissmetrics.com/webinar-71-recording)
 * [THE 3 HACKS THAT GOT SPRINGSLED 138,790 USERS IN LESS THAN 40 DAYS](http://roy.roypovarchik.com/2014/07/springsled-users)
 * [Lessons From Amazon Referral Program](http://www.referralcandy.com/blog/lessons-from-amazon-primes-referral-program/)
 
 #### Articles
 * [Growth hacker myth](http://techcrunch.com/2012/12/08/defining-a-growth-hacker-6-myths-about-growth-hackers/)
 * [Top 10 Consumer Internet Growth Hacks](http://www.quora.com/What-are-the-Top-10-Consumer-Internet-Growth-Hacks-that-have-been-A-B-tested) - Quora
-* [Dropbox Growth Hacking](https://blog.kissmetrics.com/dropbox-hacked-growth/)
 * [21 Growth Hacking Tactics](http://yongfook.com/actionable-growth-hacking-tactics.html)
 * [Lessons From Growth Hackers](https://blog.kissmetrics.com/lessons-from-growth-hackers/)
 * [The Startup Pyramid](http://www.startup-marketing.com/the-startup-pyramid/)
@@ -145,7 +141,6 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [The Growth Hacking Experiment](http://www.keeping.com/growth-hacking/)
 * [A Framework For Maximizing Startup Marketing Effectiveness](http://tomtunguz.com/building-a-customer-acquisition-machine/)
 * [11 Lead Generation Tactics](http://blog.proofhq.com/11-lead-generation-tactics-006449/)
-* [18 Resources to Help You Become Amazing At User Acquisition](https://blog.kissmetrics.com/resources-for-customer-acquisition/)
 * [An Epic List of 100 Growth Hacks for Startups](http://www.searchenginejournal.com/epic-list-100-growth-hacks-startups/118690/?replytocom=1968614)
 * [Why teams get stuck with inbound marketing](https://medium.com/point-nine-news/5-reasons-why-your-team-gets-stuck-with-inbound-marketing-2a401e4d8de)
 * [Ultimate growth hacking sourcebook](https://rocketshp.com/ultimate-growth-hacking-sourcebook/)
