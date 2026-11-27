@@ -22,6 +22,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Mautic](https://www.mautic.org) - Open-source marketing automation platform for growth teams, campaigns, segmentation, and customer journeys.
  
 #### Resources
+* [SaaS Launch Survival & Directory Authority Open Datasets (2026)](https://github.com/best-directories/saas-launch-datasets-2026) - CC-BY-4.0 CSV datasets covering 1,889 indie SaaS launches (survival and HTTP/DNS failure forensics), 1,667 SaaS directories with Ahrefs DR3 vs DR4 scores, and cloud vs self-hosting TCO models; interactive directory index on [SaaSCity](https://saascity.io/best-saas-directories).
 * [The Free X Growth Course](https://slappost.app/learn/) - 5 free no-login lessons on growing on X (Twitter): hooks, threads, X's open-source algorithm, replies, and your profile funnel
 * [Funding Signals](https://fundingsignals.net/?utm_source=github_awesomelist&utm_medium=backlink) - B2B lead-intelligence API that flags companies right after they raise funding (SEC Form D), scored for sales relevance, so growth teams reach out while the timing is hottest.
 * [Growthtools](http://growthtools.io)
