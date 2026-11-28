@@ -44,6 +44,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Quora topics](https://www.quora.com/topic/Growth-Hacking)
 
 #### Tools 
+* [Insomnia Security MCP (CQR Cybersecurity LLC)](https://github.com/CQR-Cybersecurity-LLC/insomnia-mcp) - 159 native cybersecurity, multi-language SAST/taint, live secret validation, SCA/SBOM, Web DAST, OSINT, 21,100+ 1-Day CVE verification, 29-protocol enumeration & Outbound Internal Network Tunnel v4.0 MCP tools (`https://mcp.insom.ai/mcp`, 50 free credits).
 * [Where to get press coverage for your startup](http://submit.co/) - Submit.co
 * [List of growth hacking tools](http://blog.twoodo.com/14/huge-epic-list-of-growth-hacking-tools-for-non-coders/)
 * [35 Growth Hacking Tools](https://blog.kissmetrics.com/35-growth-hacking-tools/)
